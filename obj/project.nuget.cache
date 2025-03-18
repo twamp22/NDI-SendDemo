@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5CgfoBvQgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wrigh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wrigh\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.3\\microsoft.win32.systemevents.9.0.3.nupkg.sha512",
+    "C:\\Users\\wrigh\\.nuget\\packages\\ndilibdotnetcorebase\\2024.7.22.1\\ndilibdotnetcorebase.2024.7.22.1.nupkg.sha512",
+    "C:\\Users\\wrigh\\.nuget\\packages\\system.drawing.common\\9.0.3\\system.drawing.common.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
